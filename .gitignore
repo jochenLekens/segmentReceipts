@@ -131,3 +131,4 @@ dmypy.json
 #images
 Kassatickets
 Logo
+node_modules/
